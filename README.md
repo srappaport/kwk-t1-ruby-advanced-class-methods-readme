@@ -482,3 +482,4 @@ Here our `Person.destroy_all` method uses the [`Array#clear`](http://ruby-doc.or
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-advanced-class-methods-readme'>Advanced Class Methods</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 Ruby Advanced Class Methods</p>

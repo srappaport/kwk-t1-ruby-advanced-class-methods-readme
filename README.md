@@ -350,6 +350,7 @@ class Person
     person = self.new
     person.name = name
     @@all << person
+    person
   end
 end
 
